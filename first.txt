@@ -1,6 +1,6 @@
 Gitの練習をしていきます。
 基本的なことを学びます。
-・git add
-・git commit
+・git add2
+・git commit2
 ・git diff
 変更１
