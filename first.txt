@@ -3,5 +3,5 @@ Gitの練習をしていきます。
 ・git add2
 ・git commit2
 ・git status
-・git diff
+・git diff2
 変更１
